@@ -159,6 +159,12 @@
     <Image Include="Opengl_objview2.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Forklift_simple.mtl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="Forklift_simple.obj" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
